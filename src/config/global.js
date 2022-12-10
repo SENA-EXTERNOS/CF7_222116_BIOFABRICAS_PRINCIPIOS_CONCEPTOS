@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Biofábricas principios y conceptos',
+    descripcionCurso:
+      'Este componente formativo desarrolla el concepto de ‘biofábrica’ como lugar adecuado para la generación de bioabonos. En este sentido, se ofrece un recorrido por los diversos elementos necesarios para la comprensión, determinando la pertinencia y funcionalidad de un espacio dirigido a aprovechar elementos residuales del entorno y a la necesidad de su interpretación y adaptación al medio natural. Todo esto, estará encaminado a la promoción del crecimiento y desarrollo de las plantas, desde el fortalecimiento de la estructura del suelo, hasta la disponibilidad nutricional con biofertilizantes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
