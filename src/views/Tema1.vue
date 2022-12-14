@@ -149,8 +149,8 @@
       .col-lg-5(data-aos="fade-right").mb-lg-0.mb-3
         .cajonb-p
           .cajon-b.color-secundario.p-3
-            p.mb-5 Entendiendo la pertinencia de la generación de los biofertilizantes, resulta fundamental identificar las ventajas y limitaciones de su producción y uso. Por ejemplo, entre los aspectos positivos se puede encontrar el mejoramiento de la estructura del suelo, la eliminación de excedentes de fertilizantes de síntesis química presentes o el control biológico. En el caso de los biofungicidas de trichoderma, se reduce la podredumbre radical en especies como el frijol, o, con el caso del uso de bacterias fijadoras de nitrógeno, de fosfato y de potasio, es posible incidir, significativamente, en el crecimiento y desarrollo vegetal.
-      .col-lg-7.col-8: img(src='@/assets/curso/temas/tema1/21.jpg', alt='' style="border-radius: 30px")
+            p Entendiendo la pertinencia de la generación de los biofertilizantes, resulta fundamental identificar las ventajas y limitaciones de su producción y uso. Por ejemplo, entre los aspectos positivos se puede encontrar el mejoramiento de la estructura del suelo, la eliminación de excedentes de fertilizantes de síntesis química presentes o el control biológico. En el caso de los biofungicidas de trichoderma, se reduce la podredumbre radical en especies como el frijol, o, con el caso del uso de bacterias fijadoras de nitrógeno, de fosfato y de potasio, es posible incidir, significativamente, en el crecimiento y desarrollo vegetal.
+      .col-lg-7.col-12: img(src='@/assets/curso/temas/tema1/21.jpg', alt='' style="border-radius: 30px")
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
         .cajon.color-acento-botones.p-4.mb-4(style='background-color: #FFF0D4')
@@ -467,10 +467,10 @@
         p.text-center Consisten en la generación de procesos de carácter bioquímico que tienen ocurrencia en medios acuosos y que son facilitados por la mediación de microorganismos. Los métodos empleados para lograr estos procedimientos son la fermentación alcohólica y la biodigestión anaeróbica (Alarcón et al., 2019).
     .bloqueg-size
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-        .bloque-texto-g__img(
+        .bloque-texto-g__img.w-md-100(
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/66.jpg')})`}"
         )
-        .bloque-texto-g__texto.p-4.w-75
+        .bloque-texto-g__texto.p-4.w-lg-75
           p.mb-0 Enfatizando en los procesos bioquímicos mencionados, la fermentación alcohólica es un mecanismo mediado por levaduras que permiten la degradación de azúcares fermentables, esto genera etanol como resultado obtenido de la destilación fraccionada. Por el lado de la biodigestión anaerobia, se logra un proceso de degradación de la materia orgánica implicada, obteniendo, como resultado, biogás, compuesto por gas metano, entre 50% - 60%, dióxido de carbono en un 30%, y por sobrenadante y lodos de alto valor fertilizante, ricos en nutrientes.
     p.mb-5(data-aos='fade-right') Pasando a los mecanismos de más amplia utilización y versatilidad en cuanto a la generación de bioinsumos, o del aprovechamiento de biomasa, el compostaje se presenta como una de las principales alternativas para la producción de bioabonos orgánicos empleando residuos agropecuarios. 
     SlyderE(indicadores="").mb-5

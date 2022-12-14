@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     .row.justify-content-center.mb-5
-      .col-lg-7(data-aos="fade-right")
+      .col-lg-7(data-aos="fade-right").mb-lg-0.mb-3
         .cajonb-p
           .cajon-b.color-secundario.p-3
             p.mb-5 Bienvenido a este componente formativo. A continuación, se abordarán los elementos asociados a las biofábricas como escenarios de desarrollo biotecnológico para el establecimiento de procesos productivos agrícolas que proporcionen las condiciones exigidas por las plantas. Para este propósito, se definirá el concepto de ‘biofábrica’, teniendo en cuenta su amplitud, es decir, como lugar en el cual, además de generar procesos de mejoramiento y propagación vegetal, se puede lograr la generación de bioinsumos. 
