@@ -3,7 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El reconocimiento de la posibilidad de generar biofertilizantes y, en general, de bioinsumos puede representar una ventaja comparativa y competitiva para la producción agrícola. Siguiendo el objetivo de proporcionar un mejoramiento en las condiciones de fertilidad del suelo desde la recuperación de características naturales, se puede aprovechar el material residual y los subproductos agropecuarios, siendo reinsertados al sistema productivo, de forma estratégica, en un ciclo que pueda significar el fortalecimiento del sistema productivo. Así mismo, esto contribuye al desarrollo de la autonomía en cuanto a la consecución de insumos.
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+
 
     .row.justify-content-center
       .col-lg-10.mb-5

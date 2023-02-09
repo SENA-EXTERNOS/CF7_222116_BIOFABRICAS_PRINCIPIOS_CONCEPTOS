@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Biofábricas principios y conceptos',
     descripcionCurso:
-      'Este componente formativo desarrolla el concepto de ‘biofábrica’ como lugar adecuado para la generación de bioabonos. En este sentido, se ofrece un recorrido por los diversos elementos necesarios para la comprensión, determinando la pertinencia y funcionalidad de un espacio dirigido a aprovechar elementos residuales del entorno y a la necesidad de su interpretación y adaptación al medio natural. Todo esto, estará encaminado a la promoción del crecimiento y desarrollo de las plantas, desde el fortalecimiento de la estructura del suelo, hasta la disponibilidad nutricional con biofertilizantes.',
+      'Este componente desarrolla el concepto de ‘biofábrica’ como lugar adecuado para la generación de bioabonos. Se ofrece un recorrido por los diversos elementos necesarios para la comprensión, determinando la pertinencia y funcionalidad de un espacio, dirigido al aprovechamiento de los elementos residuales del entorno y a la necesidad de su interpretación y adaptación al medio natural. Esto, encaminado a la promoción del crecimiento y desarrollo de las plantas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -138,7 +138,7 @@ export default {
     {
       tema: 'Biofábrica      ',
       referencia:
-        'D´Andrea, A. (2014). ¿Qué son las biofábricas y cuál es el futuro de la bioeconomía? [Video]. YouTube.',
+        'D&#39Andrea, A. (2014). <em>¿Qué son las biofábricas y cuál es el futuro de la bioeconomía?</em> [video]. YouTube.',
       tipo: 'Video      ',
       link: 'https://www.youtube.com/watch?v=ewjPsvDw4zk',
     },
@@ -162,7 +162,7 @@ export default {
     {
       termino: 'Actinomicetos:',
       significado:
-        'bacterias grampositivas que, predominantemente, se encuentran en el suelo y que juegan un papel determinante en la descomposición de materia orgánica.  ',
+        'bacterias grampositivas que, predominantemente, se encuentran en el suelo y juegan un papel determinante en la descomposición de materia orgánica. ',
     },
     {
       termino: 'Adsorción',
@@ -212,15 +212,15 @@ export default {
   referencias: [
     {
       referencia:
-        'Acosta, W., y Peralta, M. (2015). Elaboración de abonos orgánicos a partir del compostaje de residuos agrícolas en el municipio de Fusagasugá. Recuperado de',
+        'Acosta, W. y Peralta, M. (2015). <em>Elaboración de abonos orgánicos a partir del compostaje de residuos agrícolas en el municipio de Fusagasugá.</em> ',
       link:
-        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1234/ELABORACI%C3%93N%20DE%20ABONOS%20ORG%C3%81NICOS%20A%20PARTIR%20DEL%20COMPOSTAJE%20DE%20R.pdf?sequence=1&isAllowed=y      ',
+        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1234/ELABORACI%C3%93N%20DE%20ABONOS%20ORG%C3%81NICOS%20A%20PARTIR%20DEL%20COMPOSTAJE%20DE%20R.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Alarcón, J., Gordillo, Y. & Rivera, G. (2019). Optimización del proceso de compostaje mediante la introducción de abono microbial que contiene Streptomyces sp, Aspergillus niger Y Lactobacillus sp. [Tesis de pregrado, Universidad Colegio Mayor de Cundinamarca]. Recuperado de',
+        'Arango, M. (2017). <em>Abonos orgánicos como alternativa para la conservación y mejoramiento de los suelos.</em> [Tesis de pregrado, Corporación Universitaria Lasallista].',
       link:
-        'https://repositorio.unicolmayor.edu.co/bitstream/handle/unicolmayor/280/1%20para%20subir%20OPTIMIZACI%C3%93N%20DEL%20PROCESO%20DE%20COMPOSTAJE%20MEDIANTE%20LA%20INTRODUCCION%20DE%20UN%20ABONO%20MICROBIAL%20QUE%20CONTIENE%20Stre%20%281%29.pdf?sequence=2&isAllowed=y',
+        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2036/1/Abonos_organicos_alternativa_conservacion_mejoramiento_suelo.pdf',
     },
     {
       referencia:
@@ -230,7 +230,7 @@ export default {
     },
     {
       referencia:
-        'Beltrán, M., y Bernal, A. (2022). Biofertilizantes: alternativa biotecnológica para los agroecosistemas. Mutis, 12(1).      ',
+        'Beltrán, M., y Bernal, A. (2022). Biofertilizantes: alternativa biotecnológica para los agroecosistemas. Mutis, 12(1).',
       link: '',
     },
     {
@@ -241,7 +241,7 @@ export default {
     },
     {
       referencia:
-        'Pedraza, R., Estrada. G., & Bonilla, R. (2018). Biofertilizantes y su relación con la sostenibilidad agrícola.       ',
+        'Pedraza, R., Estrada. G. & Bonilla, R. (2018). Biofertilizantes y su relación con la sostenibilidad agrícola.',
       link: '',
     },
     {

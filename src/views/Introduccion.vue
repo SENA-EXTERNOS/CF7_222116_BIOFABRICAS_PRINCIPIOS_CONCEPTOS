@@ -12,11 +12,10 @@
       .col-lg-7(data-aos="fade-right").mb-lg-0.mb-3
         .cajonb-p
           .cajon-b.color-secundario.p-3
-            p.mb-5 Bienvenido a este componente formativo. A continuación, se abordarán los elementos asociados a las biofábricas como escenarios de desarrollo biotecnológico para el establecimiento de procesos productivos agrícolas que proporcionen las condiciones exigidas por las plantas. Para este propósito, se definirá el concepto de ‘biofábrica’, teniendo en cuenta su amplitud, es decir, como lugar en el cual, además de generar procesos de mejoramiento y propagación vegetal, se puede lograr la generación de bioinsumos. 
+            p.mb-5 Bienvenido a este componente formativo, donde se abordarán elementos asociados a las biofábricas como escenarios de desarrollo biotecnológico, para el establecimiento de procesos productivos agrícolas, que proporcionen las condiciones exigidas por las plantas. Para este propósito, se definirá el concepto de ‘biofábrica’, teniendo en cuenta su amplitud, es decir, como lugar en el cual, además de generar procesos de mejoramiento y propagación vegetal, se puede lograr la generación de bioinsumos. 
               br
-              br
-              |Así mismo, se estudiarán tanto los contenidos de interés para la comprensión del papel de los microorganismos en la generación de bioabonos, como todo lo relacionado con el aprovechamiento oportuno de subproductos de la unidad agropecuaria. Todo lo anterior, siguiendo los principios de economía circular, teniendo en cuenta que, en el proceso, se asumen riesgos que deben ser interpretados y prevenidos para, así, lograr el objetivo de producción. 
-          p(data-aos='fade-right') Está invitado a iniciar este recorrido observando el siguiente video de introducción. 
+              |Así mismo, se estudiarán, tanto los contenidos de interés para la comprensión del papel de los microorganismos en la generación de bioabonos, como todo lo relacionado con el aprovechamiento oportuno de subproductos de la unidad agropecuaria. Todo lo anterior, siguiendo los principios de economía circular, teniendo en cuenta que, en el proceso, se asumen riesgos que deben ser interpretados y prevenidos para lograr el objetivo de producción. 
+
       .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/intro/1.jpg', alt='' style="border-radius: 20px")
     figure
       .video
