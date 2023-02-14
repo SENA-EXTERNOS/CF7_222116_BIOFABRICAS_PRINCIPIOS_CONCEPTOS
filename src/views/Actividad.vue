@@ -10,7 +10,7 @@
             img(src="@/assets/curso/temas/ad.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Opción múltiple
+          h2 Biofábricas principios y conceptos
         p.mb-4 Luego de concluir el desarrollo del componente formativo, resulta necesario realizar un proceso de evaluación que proporcione un indicio del conocimiento adquirido por parte del aprendiz. En este sentido, se establece la siguiente actividad de “opción múltiple”, para generar un balance de la comprensión de los contenidos abordados.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

@@ -247,7 +247,7 @@
             .col-8
               img(src='@/assets/curso/temas/tema1/38.svg' alt='AvatarTop')
           p.text-center.text-white Almacenamiento (demanda de espacio y recipientes adecuados).
-    p.mb-5(data-aos='fade-right') A continuación, se presenta todo lo relacionado con biopreparados.
+    p.mb-5(data-aos='fade-right') A continuación, se presenta todo lo relacionado con biopreparados:
     .tarjeta.card-linea.p-5
       SlyderA(tipo='b')
         .row.justify-content-center.align-items-center
@@ -387,7 +387,7 @@
               h4.fst-italic Aspergillus niger
               p Hongo que, a través de la producción de hifas (conidióforos), puede producir ácidos orgánicos que logran mejorar el proceso de disponibilidad de nutrientes para las plantas.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/58.jpg')})`}")
-    p.mb-5(data-aos='fade-right') A continuación, se presenta la clasificación de algunos microorganismos, de acuerdo con dos propiedades destacadas.
+    p.mb-5(data-aos='fade-right') A continuación, se presenta la clasificación de algunos microorganismos, de acuerdo con dos propiedades destacadas:
     div(style="background-color: #F6F6F6").mn.p-5.mb-5
       //TODO! ajustar el componente 
       .row.justify-content-center
@@ -401,36 +401,49 @@
                 img(src='@/assets/curso/temas/tema1/n1.svg', alt='' style="width: 70px ").me-3
                 .contenido 
                   .h6.mb-2 Microorganismo
-                  p #[em Bacillus thuringiensis]
-                    br
-                    |#[em Paecilomyces lilacinus]
+                  ul.lista-ul--color
+                    li
+                      i.fas.fa-angle-right
+                      p.mb-0 #[em Bacillus thuringiensis]
+                    li
+                      i.fas.fa-angle-right
+                      p.mb-0 #[em Paecilomyces lilacinus]
               .tarjeta.bg-white.p-3(x="68.7%" y="58%" numero="2" style='min-width: 500px').d-flex.justify-content-center
                 img(src='@/assets/curso/temas/tema1/n2.svg', alt='' style="width: 70px ").me-3
                 .contenido 
                   .h6.mb-2 Microorganismo
                   .row
                     .col-lg-5
-                      p #[em Pseudomonas Lactobacillus]
-                        br
-                        |#[em Azotobacter]
-                        br
-                        |#[em Azospirillum]
-                        br
-                        |#[em Rhizobium]
+                      ul.lista-ul--color
+                        li
+                          i.fas.fa-angle-right
+                          p.mb-0 #[em Pseudomonas Lactobacillus]
+                        li
+                          i.fas.fa-angle-right
+                          p.mb-0 #[em Azotobacter]
+                        li
+                          i.fas.fa-angle-right
+                          p.mb-0 #[em Azospirillum]
+                        li
+                          i.fas.fa-angle-right
+                          p.mb-0 #[em Rhizobium]
                     .col-lg-3
-                      p #[em Saccharomyces]
-                        br
-                        |#[em Candida]
-                        br
-                        |#[em Trichoderma]
+                      ul.lista-ul--color
+                          li
+                            i.fas.fa-angle-right
+                            p.mb-0 #[em Saccharomyces]
+                          li
+                            i.fas.fa-angle-right
+                            p.mb-0 #[em Candida]
+                          li
+                            i.fas.fa-angle-right
+                            p.mb-0 #[em Trichoderma]
     Separador
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3  Aprovechamiento de subproductos de unidades agropecuarias
-    img(src='@/assets/curso/temas/tema1/60.svg', alt='').mb-5
     p.mb-5(data-aos='fade-right') El desarrollo de procesos de generación de bioinsumos, implica el aprovechamiento de materia orgánica que, en gran proporción, se encuentra en los elementos residuales de las actividades productivas agropecuarias. Estos subproductos cuentan con composiciones dotadas de macromoléculas orgánicas que presentan un alto grado de potencial energético, almacenado en forma de energía química. A los subproductos con este potencial de liberación de energía química, se les conoce con el nombre de biomasa. 
-      br
-      br
-      | La biomasa se clasifica en dos categorías en cuanto a disponibilidad energética, biomasa de fuentes primarias y biomasa de fuentes secundarias (Alarcón et al., 2019).
+    img(src='@/assets/curso/temas/tema1/60.svg', alt='').mb-5
+    p La biomasa se clasifica en dos categorías en cuanto a disponibilidad energética, biomasa de fuentes primarias y biomasa de fuentes secundarias (Alarcón et al., 2019).
     .bg-1-1.mn.p-5.mb-5
       .row.justify-content-center.mb-5
         .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
@@ -708,7 +721,8 @@
       .col-lg-7(data-aos="fade-left")
         p.mb-0 En términos generales, la operación de la biofábrica se configura como una posibilidad real de generación de alternativas para la fertilización apropiada de cultivos, susceptible de posicionarse como una opción productiva, garante de las condiciones de eficiencia, demandadas para alcanzar un nivel de competitividad en el mercado agrícola. Su operación está fundamentada en el principio de la economía circular, es decir, a partir de las consideraciones de capacidad de carga del ecosistema suelo, al que se integra, nuevamente, en el ciclo productivo, aquellos subproductos con potencial de aprovechamiento energético. 
           br
-          |Se le invita a observar el siguiente video, sobre la relación planta–suelo, en la elaboración de bioabonos.
+          br
+          |Se le invita a observar el siguiente video, sobre la relación planta–suelo, en la elaboración de bioabonos:
 
     figure.mb-5
       .video

@@ -128,7 +128,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Biofábrica      ',
+      tema: 'Biofábrica como lugar de producción de bioabonos',
       referencia:
         'Anaya, M. (s.f.). Biofábrica para la transformación tecnificada de residuos orgánicos generados en la empresa agropecuaria para la producción de abonos sólidos y líquidos. SENA.',
       tipo: 'Manual      ',
@@ -136,21 +136,21 @@ export default {
         'http://repositorio.unicauca.edu.co:8080/bitstream/handle/123456789/892/ANEXO%20C.pdf?sequence=2&isAllowed=y',
     },
     {
-      tema: 'Biofábrica      ',
+      tema: 'Biofábrica como lugar de producción de bioabonos',
       referencia:
         'D&#39Andrea, A. (2014). <em>¿Qué son las biofábricas y cuál es el futuro de la bioeconomía?</em> [video]. YouTube.',
       tipo: 'Video      ',
       link: 'https://www.youtube.com/watch?v=ewjPsvDw4zk',
     },
     {
-      tema: 'Bioinsumos      ',
+      tema: 'Biofábrica como lugar de producción de bioabonos',
       referencia:
         'Tencio, R. (2017). Guía de elaboración y aplicación de bioinsumos para una producción agrícola sostenible. Ministerio de agricultura y ganadería de Costa Rica. ',
       tipo: 'Guía',
       link: 'http://www.mag.go.cr/bibliotecavirtual/F08-10924.pdf       ',
     },
     {
-      tema: 'Compostado de materia orgánica      ',
+      tema: 'Biofábrica como lugar de producción de bioabonos',
       referencia:
         'Instituto Colombiano Agropecuario. (2015). Cartilla práctica para la elaboración de abono orgánico compostado en producción ecológica. Ministerio de agricultura de Colombia. ',
       tipo: 'Cartilla      ',
@@ -218,15 +218,15 @@ export default {
     },
     {
       referencia:
-        'Arango, M. (2017). <em>Abonos orgánicos como alternativa para la conservación y mejoramiento de los suelos.</em> [Tesis de pregrado, Corporación Universitaria Lasallista].',
+        'Alarcón, J., Gordillo, Y. & Rivera, G. (2019). <em>Optimización del proceso de compostaje mediante la introducción de abono microbial que contiene Streptomyces sp, Aspergillus niger Y Lactobacillus sp.</em> [Tesis de pregrado, Universidad Colegio Mayor de Cundinamarca].  ',
       link:
-        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2036/1/Abonos_organicos_alternativa_conservacion_mejoramiento_suelo.pdf',
+        'https://repositorio.unicolmayor.edu.co/bitstream/handle/unicolmayor/280/1%20para%20subir%20OPTIMIZACI%C3%93N%20DEL%20PROCESO%20DE%20COMPOSTAJE%20MEDIANTE%20LA%20INTRODUCCION%20DE%20UN%20ABONO%20MICROBIAL%20QUE%20CONTIENE%20Stre%20%281%29.pdf?sequence=2&isAllowed=y',
     },
     {
       referencia:
-        'Arango, M. (2017). Abonos orgánicos como alternativa para la conservación y mejoramiento de los suelos. [Tesis de pregrado, Corporación Universitaria Lasallista].  Recuperado de:',
+        'Arango, M. (2017). <em>Abonos orgánicos como alternativa para la conservación y mejoramiento de los suelos.</em> [Tesis de pregrado, Corporación Universitaria Lasallista].',
       link:
-        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2036/1/Abonos_organicos_alternativa_conservacion_mejoramiento_suelo.pdf      ',
+        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2036/1/Abonos_organicos_alternativa_conservacion_mejoramiento_suelo.pdf',
     },
     {
       referencia:
