@@ -231,7 +231,8 @@ export default {
     {
       referencia:
         'Beltrán, M., y Bernal, A. (2022). Biofertilizantes: alternativa biotecnológica para los agroecosistemas. Mutis, 12(1).',
-      link: '',
+      link:
+        'https://revistas.utadeo.edu.co/index.php/mutis/article/view/Biofertilizantes-alternativa-biotecnologica-para-agroecosistemas/1858',
     },
     {
       referencia:
@@ -242,12 +243,14 @@ export default {
     {
       referencia:
         'Pedraza, R., Estrada. G. & Bonilla, R. (2018). Biofertilizantes y su relación con la sostenibilidad agrícola.',
-      link: '',
+      link:
+        'https://repository.agrosavia.co/bitstream/handle/20.500.12324/36977/Ver_Documento_36977.pdf?sequence=5&isAllowed=y',
     },
     {
       referencia:
         'Restrepo, J. (2007). Biofertilizantes preparados y fermentados a base de mierda de vaca. Heifer International',
-      link: '',
+      link:
+        'http://agroecologa.org/wp-content/uploads/2016/12/ABC-de-la-Agricultura-organica-Abonos-organicos.pdf',
     },
   ],
   creditos: {
