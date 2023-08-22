@@ -12,7 +12,7 @@
       .col-lg-7(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--agua")
           div(titulo="Primer elemento ")
-            p.mb-0 El concepto de biofábrica se configura, en el actual panorama productivo agrario, como una alternativa productiva frente a las adversidades generadas desde la producción convencional que ha empleado, masiva e indiscriminadamente, la utilización de insumos de síntesis química. Esto ocasiona una progresiva alteración de los agroecosistemas, sobretodo, al seguir lecturas incorrectas de las necesidades y requerimientos del espacio productivo agrícola. 
+            p.mb-0 El concepto de biofábrica se configura, en el actual panorama productivo agrario, como una alternativa productiva frente a las adversidades generadas desde la producción convencional que ha empleado, masiva e indiscriminadamente, la utilización de insumos de síntesis química. Esto ocasiona una progresiva alteración de los agroecosistemas, sobre todo, al seguir lecturas incorrectas de las necesidades y requerimientos del espacio productivo agrícola. 
           div(titulo="Segundo elemento")
             p.mb-0 Desde este reconocimiento, se exponen apartados relacionados con la producción de bioabonos, el uso de microorganismos, el aprovechamiento de residuos de unidades agropecuarias, y con algunos riesgos asociados a la generación de biofertilizantes.
     Separador
