@@ -650,7 +650,7 @@
                 img(src='@/assets/curso/temas/tema1/86.jpg', alt='Texto que describa la imagen' style='border-radius: 10px;')
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p En este sentido, resulta fundamental identificar cada posible riesgo, sus implicaciones y la forma específica de evitarlos. Esto se logra con la aplicación de medidas correctivas y preventivas enfocadas en la promoción de hábitos apropiados durante la operación. La identificación oportuna requiere de una valoración precisa de las posibilidades de infraestructura y de logísticas, presentes en cada biofábrica, teniendo en cuenta, claro está, los objetivos de producción.
+              p En este sentido, resulta fundamental identificar cada posible riesgo, sus implicaciones y la forma específica de evitarlos. Esto se logra con la aplicación de medidas correctivas y preventivas enfocadas en la promoción de hábitos apropiados durante la operación. La identificación oportuna requiere de una valoración precisa de las posibilidades de infraestructura y de logística, presentes en cada biofábrica, teniendo en cuenta, claro está, los objetivos de producción.
             .col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/87.jpg', alt='Texto que describa la imagen' style='border-radius: 10px;')
