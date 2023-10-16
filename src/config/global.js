@@ -244,7 +244,7 @@ export default {
       referencia:
         'Pedraza, R., Estrada. G. & Bonilla, R. (2018). Biofertilizantes y su relación con la sostenibilidad agrícola.',
       link:
-        'https://repository.agrosavia.co/bitstream/handle/20.500.12324/36977/Ver_Documento_36977.pdf?sequence=5&isAllowed=y',
+        'https://repositorioslatinoamericanos.uchile.cl/handle/2250/4110031',
     },
     {
       referencia:

@@ -124,14 +124,14 @@
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/18.jpg')})`}")
               .tarjeta-flip__contenido.p-4.p-xl-5
-                h4 Abonos sólidos:
+                h4 Abonos sólidos
                 p Se encuentran constituidos por material biológico residual, sometido a proceso de descomposición, con la acción conjunta de la macrofauna y de microorganismos del suelo.   
         .col-lg-6(data-aos="fade-left")
           .tarjeta.tarjeta-flip.color-primario
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/19.jpg')})`}")
               .tarjeta-flip__contenido.p-4.p-xl-5
-                h4 Abonos líquidos:
+                h4 Abonos líquidos
                 p Se encuentran directamente asociados con los residuos excrementales de animales; al emplearlos, se debe garantizar la no colonización por parte de insectos, que puedan llevar a una pérdida del valor potencial del fertilizante.
     p Reconociendo los biofertilizantes, a continuación, se presentan algunos elementos sobre los que se debe profundizar.
     .row.justify-content-center.mb-5
