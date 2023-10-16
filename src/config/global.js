@@ -47,7 +47,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Biofábrica y preparación de bioabono            ',
+            titulo: 'Biofábrica y producción de bioabono',
             hash: 't_1_1',
           },
           {
